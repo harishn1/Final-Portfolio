@@ -6,7 +6,32 @@ body{
   text-align: left;
   }
   
-.body{
+  a{
+    text-decoration: none;
+  }
   
+  a: link, a:visited {
+    
+  }
+  
+  a: hover, a: active{
+    
+  }
+  
+.body{
   margin: 0 auto;
+  
+  }
+  
+.homeHeader img{
+  margin: 2% 0;
+}
+
+.homeHeader nav{
+  
+  background-color: #424242;
+  height: 60px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
