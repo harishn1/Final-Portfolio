@@ -53,14 +53,15 @@ body{
   display: inline;
 }
 
-.homeHeader nav a: link, .homeHeader nav a: visited{
-  color: #f97575;
-  display: inline-block;
-  padding: 15px 25px;
+.homeHeader nav a:link, .homeHeader nav a:visited {
+  color:#f97575;
+  display:inline-block;
+  padding:15px 25px;
+  height: 25px;
 }
 
-.homeHeader nav a:hover, .homeHeader nav .active a: visited,
-.homeHeader nav a.active a: link, .homeHeader nav.active a:visited {
+.homeHeader nav a:hover, .homeHeader nav a:active,
+.homeHeader nav .active a:link, .homeHeader nav.active a:visited {
   
   background-color: #ffffff;
   color: #f97575;
