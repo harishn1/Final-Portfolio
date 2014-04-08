@@ -2,4 +2,11 @@ body{
   
   background-color: #dad5d5;
   font-family: 'Noto Sans', sans-serif;
+  line-height: 1.5;
+  text-align: left;
   }
+  
+.body{
+  
+  margin: 0 auto;
+}
