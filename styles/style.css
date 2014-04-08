@@ -101,3 +101,21 @@ body{
   -webkit-border-radius: 5px;
   margin-bottom: 30%;
 }
+
+.homeFooter{
+  
+  width: 100%;
+  float: left;
+  background-color: #424242;
+   border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.homeFooter p{
+  color: #f97575;
+  width: 92%;
+  margin: 2%, auto;
+}
