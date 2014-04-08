@@ -19,9 +19,11 @@ body{
   }
   
 .body{
+  
+  margin: 0 auto;
   width: 70%;
   clear: both;
-  margin: 0 auto;
+  
   
   }
   
@@ -47,12 +49,12 @@ body{
 }
 
 .homeHeader nav ul li{
-  float: right;
+  float: left;
   display: inline;
 }
 
 .homeHeader nav a: link, .homeHeader nav a: visited{
-  color: #e66f6f;
+  color: # f97575;
   display: inline-block;
   padding: 15px 25 px;
 }
