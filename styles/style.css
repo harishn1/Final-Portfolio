@@ -31,9 +31,9 @@ body{
   
   background-color: #424242;
   height: 60px;
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
+  border-radius: 30px;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
 }
 
 .homeHeader nav ul{
