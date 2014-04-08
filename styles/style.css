@@ -60,7 +60,7 @@ body{
 }
 
 .homeHeader nav a:hover, .homeHeader nav .active a: visited,
-.homeHeader nav a.active a: link, .homeHeader nav.active a:visited{
+.homeHeader nav a.active a: link, .homeHeader nav.active a:visited {
   
   background-color: #ffffff;
   text-shadow: none;
