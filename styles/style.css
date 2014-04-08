@@ -35,9 +35,9 @@ body{
   position: absolute;
   top: 150px;
   height: 60px;
-  border-radius: 130px;
-  -moz-border-radius: 30px;
-  -webkit-border-radius: 30px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 
 .homeHeader nav ul{
