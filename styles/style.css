@@ -34,8 +34,6 @@ body{
 .homeHeader nav{
   
   background-color: #424242;
-  position: absolute;
-  top: 130px;
   height: 60px;
   width: 70%;
   border-radius: 5px;
@@ -82,7 +80,6 @@ body{
 }
 
 .content{
-  height: 80%;
   width: 100%;
   float: left;
  
