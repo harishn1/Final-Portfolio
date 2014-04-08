@@ -74,5 +74,15 @@ body{
   -webkit-border-radius: 5px;
 }
 
+.homeContent{
+  background color: #424242;
+  color: #f97575;
+  position: relative;
+  top: 200;
+}
 
+.homeFooter{
+  
+background color: #424242;
+}
 
