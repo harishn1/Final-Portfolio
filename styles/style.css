@@ -74,26 +74,21 @@ body{
   -webkit-border-radius: 5px;
 }
 
-
-
 .main{
-  margin: 0 auto;
-  width: 70%;
-  clear: both;
-
-.homeContent{
-  opacity: 0.5;
-  background-color: #424242;
-  position: absolute;
-  top: 30px;
-  height: 120px;
+  line-height = 25px;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
+  width: 70%;
+  float: left;
 }
 
-.homeFooter{
-  
-background color: #424242;
+.homeContent{
+  opacity: 0.5;
+  background-color: 424242;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 2% 5%;
+  margin-top: 2px;
 }
-
