@@ -93,6 +93,8 @@ body{
   
   opacity: 0.5;
   background-color: #424242;
+  position: absolute;
+  top: 200px;
   color: #f97575;
   border-radius: 5px;
   -moz-border-radius: 5px;
