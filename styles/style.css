@@ -84,8 +84,12 @@ body{
 }
 
 .homeContent{
-  opacity: 0.5;
-  background-color: 424242;
+
+  background-color: #424242;
+  position: absolute;
+  top: 60px;
+  height: 100px;
+  width: 70%;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
