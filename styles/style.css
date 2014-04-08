@@ -112,8 +112,12 @@ body{
   margin-bottom: 2%;
 }
 
-.homeFooter p & p1{
+.homeFooter p{
   color: #f97575;
   width: 92%;
+}
 
+.homeFooter p1{
+  color: #f97575;
+  width: 92%;
 }
