@@ -92,10 +92,11 @@ body{
 
 .homeContent{
   
+  width: 70%;
   opacity: 0.5;
   background-color: #424242;
   position: absolute;
-  top: 200px;
+  top: 220px;
   color: #f97575;
   border-radius: 5px;
   -moz-border-radius: 5px;
@@ -104,10 +105,12 @@ body{
 
 .homeFooter{
   
-  width: 100%;
+  width: 70%;
   float: left;
   background-color: #424242;
    border-radius: 5px;
+    position: absolute;
+  top: 500px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   margin-top: 2%;
