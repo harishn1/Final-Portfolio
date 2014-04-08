@@ -63,6 +63,7 @@ body{
 .homeHeader nav a.active a: link, .homeHeader nav.active a:visited {
   
   background-color: #ffffff;
+  color: #f97575;
   text-shadow: none;
 }
 
