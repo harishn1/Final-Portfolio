@@ -30,8 +30,9 @@ body{
 .homeHeader nav{
   
   background-color: #424242;
-  height: 30px;
-  width: 70px;
+  box-align:right;
+  height: 60px;
+  width: 100px;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
