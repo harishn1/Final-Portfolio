@@ -82,6 +82,7 @@ body{
 }
 
 .content{
+  height: 80%;
   width: 100%;
   float: left;
  
