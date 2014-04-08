@@ -83,11 +83,9 @@ body{
 }
 
 .content{
-  position: absolute;
-  top: 200;
   width: 60%;
   float: center;
-  padding: 13% 5%;
+  padding: 3% 5%;
 
 }
 
