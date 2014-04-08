@@ -99,7 +99,6 @@ body{
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  margin-bottom: 30%;
 }
 
 .homeFooter{
@@ -117,5 +116,5 @@ body{
 .homeFooter p{
   color: #f97575;
   width: 92%;
-  margin: 2%, auto;
+
 }
