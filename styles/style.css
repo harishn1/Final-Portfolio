@@ -68,7 +68,11 @@ body{
   text-shadow: none;
 }
 
-
+.homeHeader nav ul li a{
+   border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
 
 
 
