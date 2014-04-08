@@ -34,13 +34,14 @@ body{
 .homeHeader nav{
   
   background-color: #424242;
+  position: absolute;
+  top: 130px;
   height: 60px;
   width: 70%;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
-  position: absolute;
-  top: 130px;
+ 
 }
 
 .homeHeader nav ul{
